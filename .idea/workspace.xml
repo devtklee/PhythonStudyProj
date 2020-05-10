@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c6ce258-0a41-4ba0-b7fd-4b01623ebf7f" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="8c6ce258-0a41-4ba0-b7fd-4b01623ebf7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/practice/ArithmeticOperators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/HelloPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/PythonIfElse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PhythonStudyProj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PhythonStudyProj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,66 +24,22 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/__init__.py" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="250" />
-    <option name="y" value="398" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PhythonStudyProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PhythonStudyProj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PhythonStudyProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PhythonStudyProj" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PhythonStudyProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PhythonStudyProj" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1bhVHb7J6Jnaxeh83DUgsFZKI1g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Loops">
+    <configuration name="ArithmeticOperators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PhythonStudyProj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +47,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/__init__.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/practice/ArithmeticOperators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PhythonStudyProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/practice/Division.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloPython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PhythonStudyProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/practice/HelloPython.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PhythonStudyProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/practice/Loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PythonIfElse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PhythonStudyProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/practice/PythonIfElse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.Loops" />
+        <item itemvalue="Python.Division" />
+        <item itemvalue="Python.ArithmeticOperators" />
+        <item itemvalue="Python.PythonIfElse" />
+        <item itemvalue="Python.HelloPython" />
       </list>
     </recent_temporary>
   </component>
@@ -124,41 +169,80 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544023258829</updated>
+      <workItem from="1589084226626" duration="250000" />
+      <workItem from="1589084663724" duration="3470000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17217484" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.29903537" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3290461" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="688" y="1127" key="#__init__" timestamp="1589084253118">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state x="688" y="1127" key="#__init__/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589084253118" />
+    <state x="457" y="1168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589084401983">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state x="457" y="1168" key="#com.intellij.execution.impl.EditConfigurationsDialog/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589084401983" />
+    <state x="716" y="1316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589087193157">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state x="716" y="1316" key="#com.intellij.fileTypes.FileTypeChooser/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589087193157" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1589089266933">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589089266933" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/273.1103.1440.808/0.23.1920.1057@273.1103.1440.808" timestamp="1589084791862" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1589089266932">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.center/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589089266932" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/273.1103.1440.808/0.23.1920.1057@273.1103.1440.808" timestamp="1589084791861" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1589089266931">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.left/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589089266931" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/273.1103.1440.808/0.23.1920.1057@273.1103.1440.808" timestamp="1589084791861" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1589089266932">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.right/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589089266932" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/273.1103.1440.808/0.23.1920.1057@273.1103.1440.808" timestamp="1589084791862" />
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom" timestamp="1589087029777">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.bottom/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589087029777" />
+    <state width="1398" height="257" key="GridCell.Tab.1.center" timestamp="1589087029776">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.center/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589087029776" />
+    <state width="1398" height="257" key="GridCell.Tab.1.left" timestamp="1589087029775">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.left/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589087029775" />
+    <state width="1398" height="257" key="GridCell.Tab.1.right" timestamp="1589087029776">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.1.right/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589087029776" />
+    <state x="494" y="1145" key="SettingsEditor" timestamp="1589084780278">
+      <screen x="273" y="1103" width="1440" height="808" />
+    </state>
+    <state x="494" y="1145" key="SettingsEditor/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589084377778" />
+    <state x="494" y="1145" key="SettingsEditor/273.1103.1440.808/0.23.1920.1057@273.1103.1440.808" timestamp="1589084780278" />
+    <state x="574" y="1103" width="837" height="807" key="find.popup" timestamp="1589087302400">
+      <screen x="273" y="1103" width="1440" height="807" />
+    </state>
+    <state x="574" y="1103" width="837" height="807" key="find.popup/273.1103.1440.807/0.23.1920.1057@273.1103.1440.807" timestamp="1589087302400" />
+    <state x="574" y="1103" width="837" height="808" key="find.popup/273.1103.1440.808/0.23.1920.1057@273.1103.1440.808" timestamp="1589084742857" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonStudyProj$PythonIfElse.coverage" NAME="PythonIfElse Coverage Results" MODIFIED="1589087022530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1589089266924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$Division.coverage" NAME="Division Coverage Results" MODIFIED="1589087324432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$HelloPython.coverage" NAME="HelloPython Coverage Results" MODIFIED="1589084791852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$ArithmeticOperators.coverage" NAME="ArithmeticOperators Coverage Results" MODIFIED="1589087057132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/practice" />
+    <SUITE FILE_PATH="coverage/PythonStudyProj$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1589084787002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
